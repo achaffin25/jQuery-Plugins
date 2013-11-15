@@ -1,1 +1,27 @@
 /* Stylesheet */
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
+
+html, body {
+	padding: 0;
+	margin: 0;
+	font-family: "Open Sans", Helvetica, sans-serif;
+}
+
+section {
+	width: 100%;
+	margin: 0 auto;
+	padding: 75px 50px 100px 50px;
+}
+
+.sticky-section {
+	background-color: #eee;
+}
+
+.blur-section {
+	background-color: #ddd;
+}
+
+.fancy-section {
+	background-color: #eee;
+}
