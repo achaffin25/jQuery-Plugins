@@ -11,7 +11,7 @@ html, body {
 section {
 	width: 100%;
 	margin: 0 auto;
-	padding: 75px 50px 100px 50px;
+	padding: 100px 50px 100px 50px;
 }
 
 .sticky-section {
@@ -24,4 +24,26 @@ section {
 
 .fancy-section {
 	background-color: #eee;
+}
+
+
+
+
+
+.stickyelement {
+	position: relative;
+	right: -65%;
+	width: 25%;
+	padding: 20px;
+	text-align: center;
+	background: #ccc;
+}
+
+
+.blurelement {
+	margin: 0 auto;
+	width: 30%;
+	padding: 50px 20px 50px 20px;
+	text-align: center;
+	background: #bbb;
 }
